@@ -4,13 +4,6 @@ internship-evaluation-frontend/dist/
 internship-evaluation-frontend/.angular/
 internship-evaluation-frontend/.env
 
-# .NET (backend)
-internship-evaluation-backend/bin/
-internship-evaluation-backend/obj/
-internship-evaluation-backend/appsettings.Development.json
-internship-evaluation-backend/appsettings.Local.json
-internship-evaluation-backend/*.db
-
 # General
 *.log
 *.tmp
